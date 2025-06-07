@@ -1,9 +1,9 @@
 <fable>
-  <config font-family="Schoolbell" />
+  <config font-family="Audiowide" />
 
-  <property name="pontuacao" default="0" />
-  <property name="visitante" default="Aventureiro" />
-
+  <property name="pontos" default="0" />
+  <property name="resultado" default="sucesso" />
+  
   <start />
   <middle />
   <ending />
