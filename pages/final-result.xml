@@ -1,3 +1,10 @@
 <page id="final-result" bg_color="black">
-  <agent id="titulo" x="center" y="center" text="Página final-result" color="white" font-size="24" />
+  <agent
+    id="titulo"
+    x="center"
+    y="center"
+    text="Página final-result"
+    color="white"
+    font-size="24"
+  />
 </page>
