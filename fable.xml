@@ -1,8 +1,10 @@
 <fable>
   <config font-family="Audiowide" />
 
-  <property name="pontos" default="0" />
   <property name="resultado" default="sucesso" />
+  <property name="pontos_azuis" default="0" />
+  <property name="pontos_vermelhos" default="0" />
+  <property name="vez" default="vermelho" />
   
   <start />
   <middle />
