@@ -21,7 +21,7 @@
     y="178"
     width="80"
     height="40"
-    on_click="goToPage('middle')"
+    on_click="goToPage('middle-3')"
   />
   <!-- Placar do vermelho -->
    <agent
