@@ -22,6 +22,6 @@
     text="EMPATE"
     color="black"
     font-size="50"
-    on_click="goToPage('final-result')"
+    on_click="goToPage('final-result-2')"
   />
 </page>
