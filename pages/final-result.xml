@@ -1,4 +1,4 @@
-<page id="final-result" bg_color="black">
+<page id="final-result" bg_image="cemetery-noite-dark.png">
   <agent
     id="titulo"
     x="center"
