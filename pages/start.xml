@@ -1,13 +1,33 @@
 <page id="start" bg_image="arena_de_basquete.png" >
   <agent
+    id="cesta"
+    image="cesta_basquete_2_removebg_preview.png"
+    x="625"
+    width="200"
+    height="200"
+  />
+  <agent
     id="jogador_1"
     image="1_removebg_preview.png"
-    x="center"
+    x="150"
     y="90"
     width="220"
     height="280"
   />
+   <agent
+    id="placar_vermelho"
+    text="🔴 Vermelho: $pontos_vermelhos"
+    x="100"
+    y="20"
+  />
 
+  <!-- Placar do azul -->
+  <agent
+    id="placar_azul"
+    text="🔵 Azul: $pontos_azuis"
+    x="450"
+    y="20"
+    />
   <agent
     id="next_page_text"
     text="Proxima Pagina"
