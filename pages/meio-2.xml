@@ -9,8 +9,8 @@
   <agent
     id="bola_no_ar"
     image="bola_de_basquete_removebg_preview.png"
-    x="610"
-    y="85"
+    x="490"
+    y="205"
     width="80"
     height="40"
     on_click="goToPage('start-1')"
