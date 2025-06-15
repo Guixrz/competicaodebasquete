@@ -18,6 +18,10 @@
     bg_color="black"
     />
   <agent
+    id="homiAranha"
     image="baixados_removebg_preview.png"
+    y="0"
+    x="0"
+    
     />
 </page>
