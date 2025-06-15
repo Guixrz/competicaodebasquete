@@ -1,3 +1,42 @@
-<page id="start-3" bg_color="black">
-  <agent id="titulo" x="center" y="center" text="Página start-3" color="white" font-size="24" />
+<page id="start-3" bg_image="arena_de_basquete.png" >
+  <agent
+    id="cesta"
+    image="cesta_basquete_2_removebg_preview.png"
+    x="625"
+    width="200"
+    height="200"
+    />
+  <agent
+    id="jogador_1"
+    image="1_removebg_preview.png"
+    x="150"
+    y="90"
+    width="220"
+    height="280"
+  />
+    <agent
+    id="bola_de_basquete"
+    image="bola_de_basquete_removebg_preview.png"
+    x="215"
+    y="178"
+    width="80"
+    height="40"
+    on_click="goToPage('middle')"
+  />
+  <!-- Placar do vermelho -->
+   <agent
+    id="placar_vermelho"
+    text="🔴 one plauer: $pontos_2"
+    y="20"
+    color="red"
+  />
+
+  <!-- Placar do azul -->
+  <agent
+    id="placar_azul"
+    text="🔵 two player: $pontos_1"
+    x="150"
+    y="20"
+    color="blue"
+    />
 </page>
