@@ -21,12 +21,6 @@
     y="178"
     width="80"
     height="40"
-    on_click="choose("acerto,
-      animate(bola_de_basquete, move, 640, 150, 1s);
-      wait(1s);
-      if($vez == 'vermelho'){
-        set(pontos_2, $pontos_2 + 3); }
-      goToPage('middle')
   />
   <!-- Placar do vermelho -->
    <agent
