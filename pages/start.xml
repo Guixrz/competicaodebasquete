@@ -1,7 +1,5 @@
 <page id="start" bg_image="arena_de_basquete.png" >
   <agent
-    id="bola_de_basquete"
-  <agent
     id="cesta"
     image="cesta_basquete_2_removebg_preview.png"
     x="625"
@@ -15,6 +13,14 @@
     y="90"
     width="220"
     height="280"
+  />
+    <agent
+    id="bola_de_basquete"
+    image="bola_de_basquete_removebg_preview.png"
+    x="215"
+    y="178"
+    width="80"
+    height="40"
   />
   <!-- Placar do vermelho -->
    <agent
