@@ -21,7 +21,7 @@
     y="120"
     width="80"
     height="40"
-    on_click="set(${ponto_2}, ${3})"
+    on_click="set(${ponto_2}, ${3}) ; goToPage('final-result')"
   />
   <!-- Placar do vermelho -->
    <agent
