@@ -13,7 +13,7 @@
     y="85"
     width="80"
     height="40"
-    on_click="goToPage('start-1')"
+    on_click="goToPage('meio-2')"
    />
   <agent
     id="jogador_1"
