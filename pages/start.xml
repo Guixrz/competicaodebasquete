@@ -1,11 +1,6 @@
 <page id="start" bg_image="arena_de_basquete.png" >
   <agent
-    id="teste"
-    text="Hello World"
-    color="white"
-    x="center"
-    y="center"
-    font-size="70"
+    id="jogador_1"
   />
 
   <agent
