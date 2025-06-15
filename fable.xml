@@ -8,6 +8,7 @@
       on_click="playSound('music_basquete.mp3'); goToPage('start')" text="Clique para iniciar a música" />
   </page>
   <start/>
+  <start-1/>
   <middle/>
   <meio-1/>
   <ending/>
