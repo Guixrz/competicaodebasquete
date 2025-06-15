@@ -2,16 +2,19 @@
   <agent
     id="placar_vermelho"
     text="🔴 one plauer: $pontos_2"
-    y="350"
-    x="120"
+    y="280"
+    x="450"
     color="red"
     font-size="30"
+    bg_color="black"
   />
   <agent
     id="placar_azul"
     text="🔵 two player: $pontos_1"
-    x="440"
-    y="350"
+    x="20"
+    y="280"
     color="blue"
     font-size="30"
+    bg_color="black"
     />
+</page>
