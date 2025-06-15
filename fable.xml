@@ -4,8 +4,9 @@
   <property name="pontos_vermelhos" default="0" />
   <property name="vez" default="vermelho" />
 
-  <page id="inicio">
-    <agent id="musica" x="400" y="400" on_click="playSound('music_basquete.mp3')" text="Clique para iniciar a música" />
+  <page id="inicio" bg_color="black">
+    <agent id="musica" x="center" y="center" bg_color="white"
+      on_click="playSound('music_basquete.mp3')" text="Clique para iniciar a música" animation="glitch" />
   </page>
   <start/>
   <middle/>
