@@ -1,3 +1,17 @@
-<page id="final-result-2" bg_color="black">
-  <agent id="titulo" x="center" y="center" text="Página final-result-2" color="white" font-size="24" />
-</page>
+<page id="final-result-2" bg_image="xd.jpg">
+  <agent
+    id="placar_vermelho"
+    text="🔴 one plauer: $pontos_2"
+    y="350"
+    x="120"
+    color="red"
+    font-size="30"
+  />
+  <agent
+    id="placar_azul"
+    text="🔵 two player: $pontos_1"
+    x="440"
+    y="350"
+    color="blue"
+    font-size="30"
+    />
