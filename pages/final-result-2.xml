@@ -18,7 +18,7 @@
     bg_color="black"
     />
   <agent
-    id="homiAranha"
+    id="homemAranha"
     image="baixados_removebg_preview.png"
     y="0"
     x="0"
