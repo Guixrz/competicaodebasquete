@@ -5,7 +5,7 @@
   <property name="vez" default="vermelho" />
 
   <page id="inicio">
-    <agent id="musica" x="200" y="100" on_click="playSound('music_basquete.mp3')" text="Clique para iniciar a música" />
+    <agent id="musica" x="400" y="400" on_click="playSound('music_basquete.mp3')" text="Clique para iniciar a música" />
   </page>
   <start/>
   <middle/>
