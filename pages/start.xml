@@ -14,11 +14,10 @@
     width="220"
     height="280"
   />
-  <!-- Placar do vermelho
+  <!-- Placar do vermelho -->
    <agent
     id="placar_vermelho"
     text="🔴 Vermelho: $pontos_vermelhos"
-    x="100"
     y="20"
     color="red"
   />
