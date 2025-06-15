@@ -15,7 +15,5 @@
     y="480"
     x="640"
     on_click="goToPage('middle')"
-    <agent
-      id=""
   />
 </page>
