@@ -2,7 +2,6 @@
   <config font-family="Audiowide" />
   <property name="pontos_1" default="0" />
   <property name="pontos_2" default="0" />
-  <property name="vez" default="vermelho" />
   <page id="inicio" bg_color="black">
     <agent id="musica" x="center" y="center" bg_color="white"
       on_click="playSound('music_basquete.mp3'); goToPage('start')" text="Clique para iniciar a música" />
