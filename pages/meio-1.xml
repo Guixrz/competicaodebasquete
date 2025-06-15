@@ -9,8 +9,8 @@
   <agent
     id="bola_no_ar"
     image="bola_de_basquete_removebg_preview.png"
-    x="400"
-    y="40"
+    x="610"
+    y="85"
     width="80"
     height="40"
    />
@@ -38,12 +38,4 @@
     y="20"
     color="blue"
     />
-  <agent
-    id="next_page_text"
-    text="Proxima Pagina"
-    animation="glitch"
-    y="480"
-    x="640"
-    on_click="goToPage('ending')"
-  />
 </page>
