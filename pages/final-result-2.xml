@@ -8,6 +8,13 @@
     font-size="30"
     bg_color="black"
   />
+    <agent
+    id="anime-imagem"
+    image="baixados_2_removebg_preview.png"
+    height="1000"
+    y="-100"
+    x="-20"
+    />
   <agent
     id="placar_azul"
     text="🔵 two player: $pontos_1"
@@ -20,8 +27,15 @@
   <agent
     id="homem-aranha"
     image="baixados_removebg_preview.png"
-    y="0"
-    x="0"
-    
+    y="280"
+    x="450"
+    height="400"
+    width="400"
+    />
+  <agent
+    id="bola-na-cesta"
+    image="baixados_1_removebg_preview.png"
+    y="-200"
+    x="460"
     />
 </page>
