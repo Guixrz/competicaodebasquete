@@ -17,8 +17,7 @@
     <agent
     id="bola_de_basquete"
     image="bola_de_basquete_removebg_preview.png"
-    x="215"
-    y="178"
+    x="400"
     width="80"
     height="40"
     on_click="goToPage('middle-3')"
