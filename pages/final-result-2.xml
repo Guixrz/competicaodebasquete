@@ -27,9 +27,9 @@
   <agent
     id="homem-aranha"
     image="baixados_removebg_preview.png"
-    y="280"
-    x="450"
-    height="400"
+    y="204"
+    x="380"
+    height="500"
     width="400"
     />
   <agent
