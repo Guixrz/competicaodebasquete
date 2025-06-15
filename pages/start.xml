@@ -25,7 +25,7 @@
   <!-- Placar do vermelho -->
    <agent
     id="placar_vermelho"
-    text="🔴 Vermelho: $pontos_vermelhos"
+    text="🔴 one plauer: $pontos_2"
     y="20"
     color="red"
   />
@@ -33,7 +33,7 @@
   <!-- Placar do azul -->
   <agent
     id="placar_azul"
-    text="🔵 Azul: $pontos_azuis"
+    text="🔵 two player: $pontos_1"
     x="150"
     y="20"
     color="blue"
