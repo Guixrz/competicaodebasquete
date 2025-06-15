@@ -1,5 +1,7 @@
 <page id="start" bg_image="arena_de_basquete.png" >
   <agent
+    id="bola_de_basquete"
+  <agent
     id="cesta"
     image="cesta_basquete_2_removebg_preview.png"
     x="625"
