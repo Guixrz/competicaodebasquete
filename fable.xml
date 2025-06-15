@@ -7,7 +7,7 @@
     id="cesta"
     image="cesta_de_basquete.jpg"
     x="center"
-    y="100"
+    y="center"
   />
   <page id="inicio" bg_color="black">
     <agent id="musica" x="center" y="center" bg_color="white"
