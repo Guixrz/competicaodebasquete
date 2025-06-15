@@ -1,6 +1,11 @@
 <page id="start" bg_image="arena_de_basquete.png" >
   <agent
     id="jogador_1"
+    image="1.png"
+    x="center"
+    y="center"
+    width="120"
+    height="180"
   />
 
   <agent
