@@ -1,4 +1,5 @@
 <fable>
+  <page id="inicio" bg_imagem="arena_de_basquete.png">
   <config font-family="Audiowide" />
 
   <property name="pontos_azuis" default="0" />
