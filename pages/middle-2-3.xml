@@ -13,6 +13,7 @@
     y="120"
     width="80"
     height="40"
+    on_click="set(${pontos_2}, ${3})"
    />
   <agent
     id="jogador_1"
