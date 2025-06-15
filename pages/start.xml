@@ -21,6 +21,14 @@
     y="178"
     width="80"
     height="40"
+    on_click="choose(
+    acerto,
+      setIf($vez == 'vermelho', pontos_2, $pontos_2 + 3);
+      setIf($vez == 'azul', pontos_1, $pontos_1 + 3);
+      goToPage('middle'),
+    erro,
+      goToPage('middle')
+  )"
   />
   <!-- Placar do vermelho -->
    <agent
