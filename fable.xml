@@ -1,7 +1,7 @@
 <fable>
   <config font-family="Audiowide" />
-  <property name="pontos_azuis" default="0" />
-  <property name="pontos_vermelhos" default="0" />
+  <property name="pontos_1" default="0" />
+  <property name="pontos_2" default="0" />
   <property name="vez" default="1" />
   <page id="inicio" bg_color="black">
     <agent id="musica" x="center" y="center" bg_color="white"
