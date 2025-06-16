@@ -5,6 +5,7 @@
     x="625"
     width="200"
     height="200"
+    on_click="goToPage('middle-3-2')"
     />
   <agent
     id="jogador_1"
@@ -21,7 +22,6 @@
     y="-100"
     width="80"
     height="40"
-    on_click="goToPage('middle-3-2')"
   />
   <!-- Placar do vermelho -->
    <agent
